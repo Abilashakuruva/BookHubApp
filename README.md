@@ -9,11 +9,7 @@
 ## updating books
 <img src="https://res.cloudinary.com/dzwzh1wki/image/upload/v1679827463/113_a2obwo.png">
 
-
-## video link
-<img src="https://drive.google.com/file/d/1fWvhDIhMnWxNBYncC7tIyelb_UKKtG6y/view?usp=sharing"/>
-
-This project was react with [Create React App](https://github.com/Abilashakuruva/BookHubApp).
+This project was [Create React App](https://github.com/Abilashakuruva/BookHubApp).
 
 In this project let's build a **Book Hub** by applying the concepts we have learned till now. This project allows you to practice the concepts and techniques learned till React Course and apply them in a concrete project.
 
